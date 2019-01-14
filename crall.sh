@@ -3,7 +3,7 @@
 # If all test cases pass, there is no output.
 # If some cases fail, the difference in output is printed out. 
 # Remember to enable execution permissions before using the script. (e.g chmod 700 rall.sh)
-# Usage: ./cecr.sh ex1.c test
+# Usage: ./crall.sh ex1.c test
 
 set -e
 
