@@ -4,7 +4,7 @@
 # Remember to give permissions i.e chmod u+x rall.sh
 # This script has to be located in the same directory as the skeletal code, 
 # with the input and output directories inside this directories.
-# e.g. rall.sh box_volume.c box 
+# e.g. rall.sh box_volume.java box 
 
 set -e # Exit on error
 
